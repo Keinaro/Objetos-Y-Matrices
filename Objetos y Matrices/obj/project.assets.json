@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\georg\\OneDrive - Universidad Rafael Landivar\\PRIMER CICLO\\Introduccion a la Programacion (PRACTICA)\\VS\\Tarea Git\\Objetos y Matrices\\Objetos y Matrices.csproj",
+      "projectUniqueName": "C:\\Users\\georg\\OneDrive - Universidad Rafael Landivar\\PRIMER CICLO\\Introduccion a la Programacion (PRACTICA)\\VS\\Tarea Git\\Objetos-Y-Matrices\\Objetos y Matrices\\Objetos y Matrices.csproj",
       "projectName": "Objetos y Matrices",
-      "projectPath": "C:\\Users\\georg\\OneDrive - Universidad Rafael Landivar\\PRIMER CICLO\\Introduccion a la Programacion (PRACTICA)\\VS\\Tarea Git\\Objetos y Matrices\\Objetos y Matrices.csproj",
+      "projectPath": "C:\\Users\\georg\\OneDrive - Universidad Rafael Landivar\\PRIMER CICLO\\Introduccion a la Programacion (PRACTICA)\\VS\\Tarea Git\\Objetos-Y-Matrices\\Objetos y Matrices\\Objetos y Matrices.csproj",
       "packagesPath": "C:\\Users\\georg\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\georg\\OneDrive - Universidad Rafael Landivar\\PRIMER CICLO\\Introduccion a la Programacion (PRACTICA)\\VS\\Tarea Git\\Objetos y Matrices\\obj\\",
+      "outputPath": "C:\\Users\\georg\\OneDrive - Universidad Rafael Landivar\\PRIMER CICLO\\Introduccion a la Programacion (PRACTICA)\\VS\\Tarea Git\\Objetos-Y-Matrices\\Objetos y Matrices\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\georg\\AppData\\Roaming\\NuGet\\NuGet.Config",
